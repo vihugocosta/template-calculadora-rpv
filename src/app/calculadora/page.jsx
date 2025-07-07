@@ -12,7 +12,7 @@ export default function Calculadora() {
     return (
         <>
             <div className="flex flex-col items-center justify-center w-full h-screen">
-                <h1 className="text-3xl mb-5" >Página da calculadora</h1>
+                <h1 className="text-3xl mb-5]" >Página da calculadora</h1>
                 <form action="" className="flex flex-col gap-4 w-full max-w-xs" >
                     <Input
                         type="number"
